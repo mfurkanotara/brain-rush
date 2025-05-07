@@ -1,3 +1,4 @@
+![Logo](https://files.mastodon.social/media_attachments/files/114/465/057/985/941/717/original/1fe3e63f60ef7770.png)
 
 # Brain Rush
 
@@ -54,4 +55,3 @@ Herhangi bir geri bildiriminiz varsa, lütfen mfurkanotara0@gmail.com adresinden
 ![Uygulama Ekran Görüntüsü](https://files.mastodon.social/media_attachments/files/114/465/060/297/825/953/original/83a7d66069f495a5.png)
 
 
-![Logo](https://files.mastodon.social/media_attachments/files/114/465/057/985/941/717/original/1fe3e63f60ef7770.png)
